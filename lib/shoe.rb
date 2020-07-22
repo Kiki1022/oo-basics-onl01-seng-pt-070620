@@ -42,19 +42,7 @@ end
   
   def cobble
     puts "Your shoe is as good as new!"
-<<<<<<< HEAD
     @condition = "new"
  
   end
-
-=======
-    condition = "new"
-     return condition
-  end
-  
- #Shoe.condition = "new"
->>>>>>> ea750a8a35b1f341d261150890333a531af56b21
-  
 end
-
-
